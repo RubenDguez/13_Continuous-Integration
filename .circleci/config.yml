@@ -13,4 +13,3 @@ workflows:
 
           # cypress-command: npx cypress run --browser electron --headless
           cypress-command: npx cypress run --browser electron --headless
-          
